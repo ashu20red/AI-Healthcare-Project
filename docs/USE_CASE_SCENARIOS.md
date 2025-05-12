@@ -1,0 +1,3 @@
+# USE_CASE_SCENARIOS.md
+
+Sample queries and responses...

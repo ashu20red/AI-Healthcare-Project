@@ -1,0 +1,3 @@
+# CHATBOT_PROMPT_STRATEGY.md
+
+Prompt templates and strategy...
